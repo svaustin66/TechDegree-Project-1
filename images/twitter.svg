@@ -1,7 +1,62 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generate more at customizr.net -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg id="twitter" class="custom-icon" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100"><circle class="outer-shape" cx="50" cy="50" r="48" style="opacity: 1; fill: rgb(3, 153, 255);"></circle>
-	<path class="inner-shape" style="opacity:1;fill:#f7f7f7;" transform="translate(25,25) scale(0.5)" d="M99.001,19.428c-3.606,1.608-7.48,2.695-11.547,3.184c4.15-2.503,7.338-6.466,8.841-11.189 c-3.885,2.318-8.187,4-12.768,4.908c-3.667-3.931-8.893-6.387-14.676-6.387c-11.104,0-20.107,9.054-20.107,20.223 c0,1.585,0.177,3.128,0.52,4.609c-16.71-0.845-31.525-8.895-41.442-21.131C6.092,16.633,5.1,20.107,5.1,23.813 c0,7.017,3.55,13.208,8.945,16.834c-3.296-0.104-6.397-1.014-9.106-2.529c-0.002,0.085-0.002,0.17-0.002,0.255 c0,9.799,6.931,17.972,16.129,19.831c-1.688,0.463-3.463,0.71-5.297,0.71c-1.296,0-2.555-0.127-3.783-0.363 c2.559,8.034,9.984,13.882,18.782,14.045c-6.881,5.424-15.551,8.657-24.971,8.657c-1.623,0-3.223-0.096-4.796-0.282 c8.898,5.738,19.467,9.087,30.82,9.087c36.982,0,57.206-30.817,57.206-57.543c0-0.877-0.02-1.748-0.059-2.617 C92.896,27.045,96.305,23.482,99.001,19.428z"></path>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="twitter.svg"
+   viewBox="0 0 100 100"
+   version="1.1"
+   class="custom-icon"
+   id="twitter">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     inkscape:current-layer="twitter"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="50"
+     inkscape:cx="50"
+     inkscape:zoom="10.08"
+     showgrid="false"
+     id="namedview7"
+     inkscape:window-height="2097"
+     inkscape:window-width="4096"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <circle
+     r="48"
+     id="circle2"
+     style="opacity:1;fill:#67a7b8;fill-opacity:1"
+     cy="50"
+     cx="50"
+     class="outer-shape" />
+  <path
+     id="path4"
+     d="m 84.999986,28.162143 c -2.575715,1.148571 -5.342858,1.925 -8.247858,2.274285 2.964286,-1.787857 5.241429,-4.618571 6.315,-7.992142 -2.775,1.655714 -5.847857,2.857143 -9.12,3.505714 -2.619285,-2.807856 -6.352142,-4.562142 -10.482857,-4.562142 -7.931428,0 -14.362142,6.467143 -14.362142,14.445 0,1.132143 0.126428,2.234285 0.371428,3.292143 C 37.537843,38.521428 26.9557,32.771428 19.872129,24.03143 c -1.235714,2.134284 -1.944286,4.615713 -1.944286,7.262856 0,5.012142 2.535714,9.434285 6.389286,12.024285 -2.354286,-0.07429 -4.569286,-0.724285 -6.504286,-1.806428 -0.0014,0.06071 -0.0014,0.121429 -0.0014,0.182144 0,6.999285 4.950714,12.837142 11.520714,14.164998 -1.205715,0.330715 -2.473572,0.507143 -3.783572,0.507143 -0.925714,0 -1.825,-0.09071 -2.702142,-0.259285 1.827857,5.738571 7.131428,9.915714 13.415714,10.032142 -4.915,3.874286 -11.107857,6.183572 -17.836429,6.183572 -1.159285,0 -2.302143,-0.06857 -3.425714,-0.201429 6.355714,4.098572 13.905,6.490714 22.014286,6.490714 26.415714,0 40.861428,-22.012142 40.861428,-41.102142 0,-0.626429 -0.01429,-1.248572 -0.04214,-1.869286 2.805683,-2.037857 5.240683,-4.582856 7.166398,-7.478571 z"
+     style="opacity:1;fill:#f7f7f7;stroke-width:0.5"
+     class="inner-shape" />
 </svg>
-
